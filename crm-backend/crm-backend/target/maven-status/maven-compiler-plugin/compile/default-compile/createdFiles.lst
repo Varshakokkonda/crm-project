@@ -1,0 +1,8 @@
+com\crm\crm_backend\controller\DashboardController.class
+com\crm\crm_backend\dto\DashboardStatsResponse.class
+com\crm\crm_backend\service\DashboardService.class
+com\crm\crm_backend\controller\InteractionController.class
+com\crm\crm_backend\repository\InteractionRepository.class
+com\crm\crm_backend\entity\Interaction.class
+com\crm\crm_backend\service\InteractionService.class
+com\crm\crm_backend\dto\InteractionResponse.class
